@@ -1,0 +1,22 @@
+<nations>
+     <country>
+          <name>France</name>
+          <population>66.99</population>
+          <continent>Europe</continent>
+     </country>
+	<country>
+		<name>Spain</name>
+		<population>90.77</population>
+		<continent>Europe</continent>
+	</country>
+	<country>
+		<name>Poland </name>
+		<population>30.22</population>
+		<continent>Europe</continent>
+	</country>
+	<country>
+		<name>Portugal</name>
+		<population>22.44</population>
+		<continent>Europe</continent>
+	</country>
+<country><name>America</name><population>320.0</population><continent>North America</continent></country></nations>
